@@ -23,6 +23,14 @@ The Summary page provides an overview of loan performance using key metrics such
 
 The Overview page provides detailed analysis of loan applications based on monthly trends, state, loan term, home ownership, and loan purpose.
 
+## Dashboard Preview
+
+### Summary Dashboard
+<img src="Summary.png" alt="Summary Dashboard" width="900"/>
+
+### Overview Dashboard
+<img src="overview.png" alt="Overview Dashboard" width="900"/>
+
 ## Key Insights
 
 - Total Loan Applications: 38,576
